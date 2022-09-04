@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "robertstan@aphios.ro",
+                "Name": "Robert Stan"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "A simple timer to meet my needs.",
+        "Icon": "player-time",
+        "Id": "com.github.anatilopan.simple-kde-timer",
+        "Name": "Simple Timer",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.1.0",
+        "Website": "https://github.com/anatilopan/simple-kde-timer"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
